@@ -1,4 +1,6 @@
 BRIDGING RESOLVER FOR GERMAN *manual*
 
+Before running the tool, please unzip the .zip files in the resources folder
+
 java -Xmx4g -cp "./BridgingDE.jar:./lib/*" ims.bridging.ResolveBridgingDE -lang "ger" -in "./data/dirndl_anaphora-1.1.all.tabbed.adjusted.final4.trainanddev" -mes "NT-NP,NT-PP,NT-CNP" -inFormat "C12BridgeDirndl" -mesAnte "NT-NP,T-NE,NT-PP,NT-CNP" --GPEadjectivesDE "./resources/GPE-adjectival-DE.txt" --ProfessionalRolesDE "/projekte/sfb-732/a6/Infstat/resources/professional-roles-de.txt" --BuildingPartsDE "/projekte/sfb-732/a6/Infstat/resources/building-parts-de.txt" --CountriesDE "/projekte/sfb-732/a6/Infstat/resources/countries-de.txt" -CountryPartsDE "/projekte/sfb-732/a6/Infstat/resources/country-parts-de.txt" --RelativesDE "/projekte/sfb-732/a6/Infstat/resources/relative-list-de.txt" --SemConnScoresDE "/projekte/sfb-732/a6/Infstat/resources/connectivity-scores-de.txt" --ArgTakingRatioDE "/projekte/sfb-732/a6/Infstat/resources/argument-taking-ratio-de.txt" --CompoundsDE "/projekte/sfb-732/a6/Infstat/resources/compounds-sdewac.txt"  -argumentTakingRatio "./resources/argument-taking-ratio-de.txt" 
 
