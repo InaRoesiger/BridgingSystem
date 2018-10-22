@@ -1,0 +1,16 @@
+Regierung
+Küste
+Hauptstadt
+Grenze
+Bevölkerung
+Einwohner
+Parlament
+Westküste
+Ostküste
+Nordküste
+Südküste
+Ostgrenze
+Nordgrenze
+Westgrenze
+Südgrenze
+
