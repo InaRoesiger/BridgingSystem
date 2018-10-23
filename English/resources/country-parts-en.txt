@@ -1,0 +1,16 @@
+government
+parliament
+coast
+westcoast
+eastcoast
+southcoast
+northcoast
+capital
+border
+citizen
+eastborder
+southborder
+northborder
+westborder
+national
+

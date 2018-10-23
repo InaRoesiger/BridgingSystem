@@ -1,0 +1,12 @@
+president
+governor
+senator
+minister
+official
+mayor
+ambassador
+autocrat
+chancellor
+premier
+commissioner
+dictator

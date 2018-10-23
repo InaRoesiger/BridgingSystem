@@ -1,0 +1,21 @@
+
+BRIDGING RESOLVER FOR ENGLISH
+
+Please unzip all the zip files in the folder resources before running the code
+
+Note on data and input formats:
+
+Unfortunately, we have slighly different input formats for all corpora.
+Small samples of the data and their respective formats are given in the folder *data*.
+The whole datasets need to be acquired (and converted) separately. 
+
+Please change the path of the "-in" parameter to the path of the corpus
+
+ISNOTES:
+
+java -Xmx8g -cp "./bridging.jar:./lib/*" ims.bridging.ResolveBridgingISNotes -lang "eng" -in "./data/isnotes.conll" -mes 'NT-NP,NT-NML,T-PRP$,T-PRP' -inFormat "C12Bridge" --GPEadjectives "./resources/GPE-adjectival.txt"  -relativeList "./resources/relatives.txt" -argumentTakingRatio "./resources/argument-taking-ratio.txt" --Generic "./resources/generic-expressions.txt" --SenseMappings "./resources/argument-taking-ratio-mappings.txt" --ProfessionalRoles "./resources/professional-roles.txt"  --BuildingParts "./resources/building-parts3.txt" --Countries "./resources/countries-en.txt" --CountryPartsEN "./resources/country-parts-en.txt" --CitiesEN "./resources/cities-en.txt" --SemConnScores "./resources/connectivity-scores3.txt" --Relations "./resources/BridingAll.csv" --RelationsPred "./resources/NB_absDiffVec300x300wRand_CoRef/data" --DocBasedReader "./resources/isnotes-docfeatures.txt"
+
+
+ARRAU: 
+
+java -Xmx8g -cp "./bridging.jar:./lib/*" ims.bridging.ResolveBridgingArrau -lang "eng" -in "./data/ARRAU.conll" -mes "NT-NP" -inFormat "C12Arrau" --GPEadjectives "./resources/GPE-adjectival.txt"  -relativeList "./resources/relatives.txt" -argumentTakingRatio "./resources/argument-taking-ratio.txt" --Generic "./resources/generic-expressions.txt" --SenseMappings "./resources/argument-taking-ratio-mappings.txt" --ProfessionalRoles "./resources/professional-roles.txt"  --BuildingParts "./resources/building-parts3.txt" --Countries "./resources/countries-en.txt" --CountryPartsEN "./resources/country-parts-en.txt" --CitiesEN "./resources/cities-en.txt" --SemConnScores "./resources/connectivity-scores3.txt" --Relations "./resources/BridingAll.csv" --RelationsPred "./resources/NB_absDiffVec300x300wRand_CoRef/data" --DocBasedReader "./resources/isnotes-docfeatures.txt"

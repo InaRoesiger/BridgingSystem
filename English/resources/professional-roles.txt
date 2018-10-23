@@ -1,0 +1,132 @@
+professor
+prof
+assistant professor
+chairman
+chairwoman
+chairperson
+chair
+vice president
+president
+CEO
+CFO
+academic
+executive
+chief executive operator
+boss
+officer
+minister
+official
+consultant
+spokesman
+ambassador
+autocrat
+chancellor
+premier
+commissioner
+dictator
+student
+doctor
+prime minister
+manager
+dean
+department manager
+director
+coach
+student
+PhD student
+graduate student
+undergraduate student
+bank manager
+manager
+minister
+administrator
+land agent
+agent
+secretary
+clerk
+chief
+adversary
+adviser
+advisor
+advocat
+agent
+architect
+assistent
+associate
+attorney
+author
+banker
+bishop
+broker
+businessman
+businesswoman
+campaigner
+candidate
+colleague
+Controller
+Production Engineer
+engineer
+craftsman
+purchaser
+analyst
+specialist
+coordinator
+guide
+technician
+assistant
+driver
+operator
+bookkeeper
+staff
+Process Engineer
+Production Manager 
+Technical Service Manager
+Mechanical Craftsman
+Strategic Purchaser
+System Analyst
+Logistics Specialist
+Group Manager
+Account Manager
+Visit Coordinatior
+Visit Guide
+Shipping Agent
+Project Manager
+Automation Engineer
+Development Specialist
+Welder
+HR-specialist
+Economist
+Product Quality Technician
+Communicator
+Production and Logistics Planner
+Business Analyst
+Project Engineer
+Documentation Engineer
+Laboratory Assistant
+Laboratory Engineer
+Development Engineer
+Chauffeur
+Electrician
+Mechanic 
+Strategic Purchaser
+Environmental Engineer
+Stevedore
+Trolley Driver
+Process Operator
+Hotel and Diner staff
+IT Coordinator
+Sales Manager
+Inspection Engineer
+IT Technician
+Technical Engineer
+Transport Coordinator
+Production Coordinator
+developer
+coordinator
+teacher
+nurse
+accountant
+publicist
+engineer
+lawyer
+pilot

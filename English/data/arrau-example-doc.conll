@@ -1,0 +1,64 @@
+#begin document (wsjarrau_2303); part 000
+wsjarrau_2303	0	1	1	A	dt	(S(NP*	(1	-	-	(markable$0	0$generic-no	0$per3	0$subj	0$sing	0$organization	0$neut	0$consortium	-
+wsjarrau_2303	0	1	2	consortium	nn	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	3	of	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	4	private	jj	(NP*	(30	-	-	(markable$1	1$generic-no	1$per3	1$np-compl	1$plur	1$organization	1$undersp-gen	1$investors	-
+wsjarrau_2303	0	1	5	investors	nns	*)	30)	-	-	markable$1)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	6	operating	vbg	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	7	as	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	8	LJH	nnp	(NP*	(31	-	-	(markable$2	2$-	2$per3	2$predicate	2$sing	2$-	2$neut	2$ljh	-
+wsjarrau_2303	0	1	9	Funding	nnp	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	10	Co.	nnp	*)	1)|31)	-	-	markable$0)|markable$2)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	11	said	vbd	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	12	it	prp	(NP*)	(1)	-	-	(markable$3)	3$generic-no	3$per3	3$subj	3$sing	3$organization	3$neut	3$consortium	-
+wsjarrau_2303	0	1	13	has	vbz	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	14	made	vbn	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	15	a	dt	(NP*	(2	-	-	(markable$4	4$generic-no	4$per3	4$obj	4$sing	4$abstract	4$neut	4$bid	-
+wsjarrau_2303	0	1	16	$	$	*	(3	-	-	(markable$5	5$generic-no	5$per3	5$np-mod	5$plur	5$numerical	5$neut	5$$	-
+wsjarrau_2303	0	1	17	409	cd	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	18	million	cd	*	3)	-	-	markable$5)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	19	cash	nn	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	20	bid	nn	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	21	for	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	22	most	jjs	(NP*)	(32	-	-	(markable$6	6$-	6$per3	6$np-mod	6$unsure-num	6$-	6$neut	6$most	-
+wsjarrau_2303	0	1	23	of	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	24	L.J.	nnp	(NP*	(33|(7	-	-	(markable$7|(markable$8	7$generic-no|8$generic-no	7$per3|8$per3	7$gen|8$np-part	7$sing|8$plur	7$organization|8$concrete	7$neut|8$neut	7$l.j.|8$holdings	-
+wsjarrau_2303	0	1	25	Hooker	nnp	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	26	Corp.	nnp	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	27	&apos;s	pos	*)	7)	-	-	markable$7)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	28	real-estate	nn	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	29	and	cc	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	30	shopping-center	jj	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	31	holdings	nns	*	2)|32)|33)	-	-	markable$4)|markable$6)|markable$8)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	1	32	.	.	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+wsjarrau_2303	0	2	1	The	dt	(S(NP*	(2	-	-	(markable$9	9$generic-no	9$per3	9$subj	9$sing	9$abstract	9$neut	9$bid	-
+wsjarrau_2303	0	2	2	$	$	*	(3	-	-	(markable$10	10$generic-no	10$per3	10$np-mod	10$plur	10$numerical	10$neut	10$$	-
+wsjarrau_2303	0	2	3	409	cd	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	4	million	cd	*	3)	-	-	markable$10)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	5	bid	nn	*)	2)	-	-	markable$9)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	6	includes	vbz	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	7	the	dt	(NP*	(34	-	-	(markable$11	11$generic-no	11$per3	11$obj	11$sing	11$abstract	11$neut	11$assumption	-
+wsjarrau_2303	0	2	8	assumption	nn	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	9	of	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	10	an	dt	(NP*	(35	-	-	(markable$12	12$generic-no	12$per3	12$np-compl	12$plur	12$numerical	12$neut	12$$	-
+wsjarrau_2303	0	2	11	estimated	jj	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	12	$	$	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	13	300	cd	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	14	million	cd	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	15	in	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	16	secured	vbn	(NP*	(36	-	-	(markable$13	13$generic-no	13$per3	13$np-mod	13$plur	13$abstract	13$neut	13$liabilities	-
+wsjarrau_2303	0	2	17	liabilities	nns	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	18	on	in	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	19	those	dt	(NP*	(37	(bridging$1$1-24-31	1$subset	(markable$14	1$generic-no|14$generic-no	1$per3|14$per3	1$np-mod|14$np-mod	1$plur|14$plur	1$concrete|14$concrete	1$neut|14$neut	1$properties|14$properties	-
+wsjarrau_2303	0	2	20	properties	nns	*)	34)|35)|36)|37)	bridging$1)	-	markable$11)|markable$12)|markable$13)|markable$14)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	21	,	,	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	22	according	vbg	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	23	to	to	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	24	those	dt	(NP*)	(1	-	-	(markable$15	15$generic-no	15$per3	15$adjunct	15$plur	15$organization	15$undersp-gen	15$those	-
+wsjarrau_2303	0	2	25	making	vbg	*	-	-	-	-	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	26	the	dt	(NP*	(2	-	-	(markable$16	16$generic-no	16$per3	16$obj	16$sing	16$abstract	16$neut	16$bid	-
+wsjarrau_2303	0	2	27	bid	nn	*)	1)|2)	-	-	markable$15)|markable$16)	-	-	-	-	-	-	-	-	-
+wsjarrau_2303	0	2	28	.	.	*)	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+#end document
