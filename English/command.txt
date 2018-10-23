@@ -1,7 +1,9 @@
 
 BRIDGING RESOLVER FOR ENGLISH
 
-Please unzip all the zip files in the folder resources before running the code
+One file was too large for github and needs to be downloaded separately: https://www.dropbox.com/s/xm2czjhbffibs7x/NB_absDiffVec300x300wRand_CoRef.zip?dl=0
+Please insert the file into the resources folder 
+Then unzip all the zip files in the folder resources before running the code
 
 Note on data and input formats:
 
